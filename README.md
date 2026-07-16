@@ -1,4 +1,4 @@
-# An-Elementary-Introduction-to-Lattice-Based-Cryptography
+## An-Elementary-Introduction-to-Lattice-Based-Signatures
 
 This is a deep dive into the theory of lattice-based cryptography with the intention of understanding the technical details of the state-of-the-art (NIST standardization candidate) signature scheme [Falcon](https://falcon-sign.info/). The material is accessible to any undergraduate student who has taken one course in linear algebra and probability.
 
